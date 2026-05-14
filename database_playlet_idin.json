@@ -1,0 +1,1752 @@
+[
+    {
+        "theater_id": 10477,
+        "theater_name": "Caught in the Paws of Mr. Unbelievable",
+        "cover": "https://cdn-aws2.playlet.com/uploadfile/20260415/902959219237486592.png",
+        "total_streams": 10,
+        "streams": [
+            {
+                "eps": 1,
+                "title": "1",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/v2/watermark/h264/10477/1/1_e76c434a259cf03b076a6d353805519b_73815fef5d12190f707567e26d9fed44.m3u8"
+            },
+            {
+                "eps": 2,
+                "title": "2",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/v2/watermark/h264/10477/2/2_b4cc691321d2846152c55d8ead997ae9_e1e6d4020e6bb8093dddcbcff0e9e7d4.m3u8"
+            },
+            {
+                "eps": 3,
+                "title": "3",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/v2/watermark/h264/10477/3/3_0017823449d34f251c7de704303d5259_d68414f2c5f95586545563adbcec99b6.m3u8"
+            },
+            {
+                "eps": 4,
+                "title": "4",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/v2/watermark/h264/10477/4/4_de9e60cb2980d03598886bfb4f342700_0fb6c8893b6f13d71d93280862619892.m3u8"
+            },
+            {
+                "eps": 5,
+                "title": "5",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/v2/watermark/h264/10477/5/5_eee37e276ee5a258fdadfab1fe6e2bdb_7d87816a7c07d25a6acf4e5de6c5dfa8.m3u8"
+            },
+            {
+                "eps": 6,
+                "title": "6",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/v2/watermark/h264/10477/6/6_3fefd639c616b68d75d3012fc049288b_2d64bfcb2322f9a3849e69deeb58d2e4.m3u8"
+            },
+            {
+                "eps": 7,
+                "title": "7",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/v2/watermark/h264/10477/7/7_b5967bd7a6a92ce1ac82e22644aeebfa_d396e4b0c12edbab16f44138df55ad73.m3u8"
+            },
+            {
+                "eps": 8,
+                "title": "8",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/v2/watermark/h264/10477/8/8_a3ba52c90f128543b0563bd89fb94039_19d9435dd16f176d2307010cfe448795.m3u8"
+            },
+            {
+                "eps": 9,
+                "title": "9",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/v2/watermark/h264/10477/9/9_366a7b6017018c5c69c15fd214dbd114_6f5af28485e627fd397627de2b83313f.m3u8"
+            },
+            {
+                "eps": 10,
+                "title": "10",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/v2/watermark/h264/10477/10/10_b4c3cf47a66a35a77c55fec89a5753e4_ce6b819d862e087bec03961f22c55d16.m3u8"
+            }
+        ]
+    },
+    {
+        "theater_id": 31781,
+        "theater_name": "Waking Vow",
+        "cover": "https://cdn-aws2.playlet.com/uploadfile/20260429/908055780032581632.png",
+        "total_streams": 9,
+        "streams": [
+            {
+                "eps": 1,
+                "title": "1",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/v2/singleAudio/31781/1/1_ec06e7d556246ee6e33b427588fe8ea3_21b09964e02ec064280295652f630a5a.m3u8"
+            },
+            {
+                "eps": 2,
+                "title": "2",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/v2/singleAudio/31781/2/2_7703d133981365359bdff243aa9204e1_ba1cf42c9c0c69e07879a7e92dcb7abd.m3u8"
+            },
+            {
+                "eps": 3,
+                "title": "3",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/v2/singleAudio/31781/3/3_b0abcc69b9ce7f11aa9b9ed70cec11ab_4a601aad85e09d5daa85749a82a89f2a.m3u8"
+            },
+            {
+                "eps": 4,
+                "title": "4",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/v2/singleAudio/31781/4/4_65574a189b7f6cd1bd845c0deec5a274_1d375afd01e4c4287ea2b869c17b097e.m3u8"
+            },
+            {
+                "eps": 5,
+                "title": "5",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/v2/singleAudio/31781/5/5_c932211911ddb5a7fcd57d70de389a8d_fd60214c1ee571a476db1c23c2b55c6c.m3u8"
+            },
+            {
+                "eps": 6,
+                "title": "6",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/v2/singleAudio/31781/6/6_2fb7a91726f93d6e7c19e7560ec094f2_b51b27da7901ddbe80a9a8dead67caa7.m3u8"
+            },
+            {
+                "eps": 7,
+                "title": "7",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/v2/singleAudio/31781/7/7_43f7e9fbf481c7211b93567ce08ec1b2_b609d25e3df2e43fba88e72b91b8c4fe.m3u8"
+            },
+            {
+                "eps": 8,
+                "title": "8",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/v2/singleAudio/31781/8/8_b72b220adf310078e7c177b9768f6939_b0ceb78c241e8e5b9b4a5afe7811d176.m3u8"
+            },
+            {
+                "eps": 9,
+                "title": "9",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/v2/singleAudio/31781/9/9_34aeb31688586e41b21146577ed5d60b_45b0dabb7ea636f3a2c65a91b5ed5bd2.m3u8"
+            }
+        ]
+    },
+    {
+        "theater_id": 30603,
+        "theater_name": "The Rescue I Never Had",
+        "cover": "https://cdn-aws2.playlet.com/uploadfile/20260323/894666703366676480.jpg",
+        "total_streams": 6,
+        "streams": [
+            {
+                "eps": 1,
+                "title": "1",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/v2/watermark/h264/30603/1/1_bf1246f7c473a6983042bfc20842444b.m3u8"
+            },
+            {
+                "eps": 2,
+                "title": "2",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/v2/watermark/h264/30603/2/2_126b5965f5d1a5c954275c7dc064658d.m3u8"
+            },
+            {
+                "eps": 3,
+                "title": "3",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/v2/watermark/h264/30603/3/3_49c8218f2773081babf08befd117b94f.m3u8"
+            },
+            {
+                "eps": 4,
+                "title": "4",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/v2/watermark/h264/30603/4/4_6164b238c431bc7577dac4bd2760e45f.m3u8"
+            },
+            {
+                "eps": 5,
+                "title": "5",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/v2/watermark/h264/30603/5/5_0566f69e6451519a7e6ca9c8eb5ab7cb.m3u8"
+            },
+            {
+                "eps": 6,
+                "title": "6",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/v2/watermark/h264/30603/6/6_28c3af67370b1d7861599dc4d703b583.m3u8"
+            }
+        ]
+    },
+    {
+        "theater_id": 1146,
+        "theater_name": "17 Heartbreaks: When Love Has No Voice",
+        "cover": "https://cdn-aws2.playlet.com/uploadfile/20250626/796746232495972352.jpg",
+        "total_streams": 6,
+        "streams": [
+            {
+                "eps": 1,
+                "title": "1",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1146/1/1_8386fcf8702a4d4890a9b7ceffce082a.m3u8"
+            },
+            {
+                "eps": 2,
+                "title": "2",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1146/2/2_42736b9eb03bdc81ff91f7951f069487.m3u8"
+            },
+            {
+                "eps": 3,
+                "title": "3",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1146/3/3_990b8e19320649512a3a4e5d08df3a51.m3u8"
+            },
+            {
+                "eps": 4,
+                "title": "4",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1146/4/4_4190c713d835855f9240624b81957360.m3u8"
+            },
+            {
+                "eps": 5,
+                "title": "5",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1146/5/5_93802f5fc8fc32ba71c40757a7115f34.m3u8"
+            },
+            {
+                "eps": 6,
+                "title": "6",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1146/6/6_dcc917c1bffa60bfcd6c19679fcd14fd.m3u8"
+            }
+        ]
+    },
+    {
+        "theater_id": 1205,
+        "theater_name": "Never Betray the Woman Who Built You",
+        "cover": "https://cdn-aws2.playlet.com/uploadfile/20260206/878238729254555648.jpg",
+        "total_streams": 6,
+        "streams": [
+            {
+                "eps": 1,
+                "title": "1",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/wm/1205/1/1_ec80addc0f4a9ac61793a2d374d5468a.m3u8"
+            },
+            {
+                "eps": 2,
+                "title": "2",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/wm/1205/2/2_586d177dc7f21d24c8eb5c696e892578.m3u8"
+            },
+            {
+                "eps": 3,
+                "title": "3",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/wm/1205/3/3_b95a753089cf9336c60e28eb511baee7.m3u8"
+            },
+            {
+                "eps": 4,
+                "title": "4",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/wm/1205/4/4_be3eff83639bace394cc65b089f1604c.m3u8"
+            },
+            {
+                "eps": 5,
+                "title": "5",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/wm/1205/5/5_1b846661d916ebab3db6dcea2b3ce7c6.m3u8"
+            },
+            {
+                "eps": 6,
+                "title": "6",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/wm/1205/6/6_752d8237070f3002fe59537b5c8a1c4c.m3u8"
+            }
+        ]
+    },
+    {
+        "theater_id": 1155,
+        "theater_name": "Accidentally Slept with the Young Mafia Boss",
+        "cover": "https://cdn-aws2.playlet.com/uploadfile/20251210/857321835925925888.jpg",
+        "total_streams": 6,
+        "streams": [
+            {
+                "eps": 1,
+                "title": "1",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1155/1/1_753d5cb2c1749ded3b45490cc540b517.m3u8"
+            },
+            {
+                "eps": 2,
+                "title": "2",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1155/2/2_7fc4801fea8d9707a846b4be155df19e.m3u8"
+            },
+            {
+                "eps": 3,
+                "title": "3",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1155/3/3_7a9e5cf9ee9764ec3ed079266344634f.m3u8"
+            },
+            {
+                "eps": 4,
+                "title": "4",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1155/4/4_20ff31fbc54d989ec11742c88bd92e08.m3u8"
+            },
+            {
+                "eps": 5,
+                "title": "5",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1155/5/5_32c8e375121fd28e24a679e860a14880.m3u8"
+            },
+            {
+                "eps": 6,
+                "title": "6",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1155/6/6_759c5747b2966e59cadf6fdd91c68295.m3u8"
+            }
+        ]
+    },
+    {
+        "theater_id": 1199,
+        "theater_name": "Pursued by My Daughter's Classmate",
+        "cover": "https://cdn-aws2.playlet.com/uploadfile/20260129/875416819004813312.jpg",
+        "total_streams": 11,
+        "streams": [
+            {
+                "eps": 1,
+                "title": "1",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/wm/1199/1/1_4acd2dc39fa15c8d6ffc22056396b739.m3u8"
+            },
+            {
+                "eps": 2,
+                "title": "2",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/wm/1199/2/2_e15257a361773b51d9aab546cde1d5c2.m3u8"
+            },
+            {
+                "eps": 3,
+                "title": "3",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/wm/1199/3/3_14b68b31659158ea02358b7de94cbb40.m3u8"
+            },
+            {
+                "eps": 4,
+                "title": "4",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/wm/1199/4/4_6305a1ed4bd423ea6bf66c3e6d3a70d6.m3u8"
+            },
+            {
+                "eps": 5,
+                "title": "5",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/wm/1199/5/5_22e7bea657494b77d77a240996c41e02.m3u8"
+            },
+            {
+                "eps": 6,
+                "title": "6",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/wm/1199/6/6_b49b3a8291472c3fc39de0f53a9b3d76.m3u8"
+            },
+            {
+                "eps": 7,
+                "title": "7",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/wm/1199/7/7_b2e953f2a4d2d0e7d4d564b04d0ef533.m3u8"
+            },
+            {
+                "eps": 8,
+                "title": "8",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/wm/1199/8/8_f3aa6902ef6e7e71521393f7ed90e423.m3u8"
+            },
+            {
+                "eps": 9,
+                "title": "9",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/wm/1199/9/9_5ad2334957b5609b5bfd394282a4808b.m3u8"
+            },
+            {
+                "eps": 10,
+                "title": "10",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/wm/1199/10/10_9efce7eff9d94ffec86bc2e65e1997bc.m3u8"
+            },
+            {
+                "eps": 11,
+                "title": "11",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/wm/1199/11/11_49a9670aabfceffbc12cb75f1f600970.m3u8"
+            }
+        ]
+    },
+    {
+        "theater_id": 1195,
+        "theater_name": "One Last Heartbeat: If You Never Heard",
+        "cover": "https://cdn-aws2.playlet.com/uploadfile/20251226/863081913439076352.jpg",
+        "total_streams": 10,
+        "streams": [
+            {
+                "eps": 1,
+                "title": "1",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1195/1/1_66d1ecdd25f04152fb5ebbac578d6776.m3u8"
+            },
+            {
+                "eps": 2,
+                "title": "2",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1195/2/2_8650179511e12acea6cedc118c49624b.m3u8"
+            },
+            {
+                "eps": 3,
+                "title": "3",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1195/3/3_1c62c25fe8347455a57937daf8bed16f.m3u8"
+            },
+            {
+                "eps": 4,
+                "title": "4",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1195/4/4_7567b766050da3c9b10034b595992197.m3u8"
+            },
+            {
+                "eps": 5,
+                "title": "5",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1195/5/5_b6981cc3e3b778642c7297104bef3316.m3u8"
+            },
+            {
+                "eps": 6,
+                "title": "6",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1195/6/6_9c3ac322d7d1e20d850c47fd555038aa.m3u8"
+            },
+            {
+                "eps": 7,
+                "title": "7",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1195/7/7_cdcb0ab1ccc850b7f6acb1f6530a42e2.m3u8"
+            },
+            {
+                "eps": 8,
+                "title": "8",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1195/8/8_f449871ba8d9b5f7cadcffe3e0610786.m3u8"
+            },
+            {
+                "eps": 9,
+                "title": "9",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1195/9/9_ac6ca1e8f5f35e32fca17064608f38f6.m3u8"
+            },
+            {
+                "eps": 10,
+                "title": "10",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1195/10/10_0c199a45f341937c749d5b0b4e26f7b3.m3u8"
+            }
+        ]
+    },
+    {
+        "theater_id": 31251,
+        "theater_name": "Marriage of Vengeance",
+        "cover": "https://cdn-aws2.playlet.com/uploadfile/20260407/900043322956877824.jpg",
+        "total_streams": 9,
+        "streams": [
+            {
+                "eps": 1,
+                "title": "1",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/v2/singleAudio/31251/1/1_29a5da0b4299c142e81e4a86b9497658_3e7821bd9e5e707b0da4de04c99af8f3.m3u8?wsSecret=90a80626ac31a5d8a5ea518071923763&wsTime=1778690728"
+            },
+            {
+                "eps": 2,
+                "title": "2",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/v2/singleAudio/31251/2/2_6b96c5037d807a98e63c6ed7c3f81920_f959e3c8255016cd43f8b7b4d8e708c4.m3u8?wsSecret=91210b8c8a162779a5b8d6b97af2d428&wsTime=1778690728"
+            },
+            {
+                "eps": 3,
+                "title": "3",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/v2/singleAudio/31251/3/3_94c41ddb160931168590135107aad5a4_db6c988970e622cbc8dcdc56df52e5c1.m3u8?wsSecret=bd5f25a30b434785fd27a46a4b567efa&wsTime=1778690728"
+            },
+            {
+                "eps": 4,
+                "title": "4",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/v2/singleAudio/31251/4/4_b45b3ec4ba0649111a2a61fe5d009493_731bbb9048c8531bafb31297d0c202a8.m3u8?wsSecret=a4bfff6846d60d13cb63efb9f19bfb57&wsTime=1778690728"
+            },
+            {
+                "eps": 5,
+                "title": "5",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/v2/singleAudio/31251/5/5_947a037a1f783d41504ec2f3f28a3d68_c649b3263dfdc59e1d542f2eb36d0beb.m3u8?wsSecret=f4dd6254ce0da547f84b12aa71f18459&wsTime=1778690728"
+            },
+            {
+                "eps": 6,
+                "title": "6",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/v2/singleAudio/31251/6/6_409416eef10f64682a80fdc1d37200d7_36f4d66231987e2c79aa2e8823265e8a.m3u8?wsSecret=cd2b9afec1c076956b9a5a2d12c48cf5&wsTime=1778690728"
+            },
+            {
+                "eps": 7,
+                "title": "7",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/v2/singleAudio/31251/7/7_cfcddfc123bff342931c070964a3f21c_359e4b5e036a894d2a80596e0fa98ea6.m3u8?wsSecret=b125a523acde2ef746953f4225c67fab&wsTime=1778690728"
+            },
+            {
+                "eps": 8,
+                "title": "8",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/v2/singleAudio/31251/8/8_e6a302b9b82990b7059cf2493561cbbb_3740155d26335fb1dc057494b5267b0d.m3u8?wsSecret=3d8e556eac02849f5081e59b6e36dac7&wsTime=1778690728"
+            },
+            {
+                "eps": 9,
+                "title": "9",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/v2/singleAudio/31251/9/9_08af2bd5a8c50f35a01809b604cf6711_957d3761c9f25af70428508af46dd703.m3u8?wsSecret=1f547d9deb97c38217bd77c63bb6c04d&wsTime=1778690728"
+            }
+        ]
+    },
+    {
+        "theater_id": 5051,
+        "theater_name": "The Sleep Contract",
+        "cover": "https://cdn-aws2.playlet.com/uploadfile/20251031/842707013408829440.jpg",
+        "total_streams": 7,
+        "streams": [
+            {
+                "eps": 1,
+                "title": "1",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/5051/1/1_e6f1b01982632093b924cb28790f5a0e.m3u8"
+            },
+            {
+                "eps": 2,
+                "title": "2",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/5051/2/2_acdcfb9ee4b9240d5cdab5a79c1ff9e1.m3u8"
+            },
+            {
+                "eps": 3,
+                "title": "3",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/5051/3/3_758ccd428f73eab71120f2e6d2264ff3.m3u8"
+            },
+            {
+                "eps": 4,
+                "title": "4",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/5051/4/4_1a92b426ba484ab85281a6062b871baa.m3u8"
+            },
+            {
+                "eps": 5,
+                "title": "5",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/5051/5/5_ef6cd193eda8efceaa7896e1b45682e1.m3u8"
+            },
+            {
+                "eps": 6,
+                "title": "6",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/5051/6/6_58bff87d6028acb206f9b4ed739b4714.m3u8"
+            },
+            {
+                "eps": 7,
+                "title": "7",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/5051/7/7_35928f25fd2b177c4651d8f3f381e536.m3u8"
+            }
+        ]
+    },
+    {
+        "theater_id": 31780,
+        "theater_name": "The Elite's Letting Go",
+        "cover": "https://cdn-oss.miniepisode.media/episode/038ec35641a819585d7ed214e9e34e5d?x-oss-process=image/resize,p_33",
+        "total_streams": 8,
+        "streams": [
+            {
+                "eps": 1,
+                "title": "1",
+                "m3u8": "https://cdn-video.miniepisode.media/video/15804/1/6621ce6a366c1c155c51ff09de2d9427.m3u8?wsSecret=2230893a66525f1ada9dccba4552f338&wsTime=1778690732"
+            },
+            {
+                "eps": 2,
+                "title": "2",
+                "m3u8": "https://cdn-video.miniepisode.media/video/15804/2/303908f374dbd9369383deee5126bb09.m3u8?wsSecret=f461a92f25faa33c7e958ff11e39b917&wsTime=1778690732"
+            },
+            {
+                "eps": 3,
+                "title": "3",
+                "m3u8": "https://cdn-video.miniepisode.media/video/15804/3/697bb80159249248003cba5eb4cd0d03.m3u8?wsSecret=366dea9848923b27b6899525429dacec&wsTime=1778690732"
+            },
+            {
+                "eps": 4,
+                "title": "4",
+                "m3u8": "https://cdn-video.miniepisode.media/video/15804/4/350d152c9a734cabc85c62a5fafe4149.m3u8?wsSecret=ad61fca903aa214a61ea886443e79f97&wsTime=1778690732"
+            },
+            {
+                "eps": 5,
+                "title": "5",
+                "m3u8": "https://cdn-video.miniepisode.media/video/15804/5/870563503e1dd8c03537fa0fa39850d8.m3u8?wsSecret=a5bba42b19568e46767721bed1a57d2b&wsTime=1778690732"
+            },
+            {
+                "eps": 6,
+                "title": "6",
+                "m3u8": "https://cdn-video.miniepisode.media/video/15804/6/9b811ee89dcb7b9f88ef0b29c77c4f2a.m3u8?wsSecret=177b675be998739851e208f617a0691e&wsTime=1778690732"
+            },
+            {
+                "eps": 7,
+                "title": "7",
+                "m3u8": "https://cdn-video.miniepisode.media/video/15804/7/3b06e6c7a5a60449f42e8e78ec493f20.m3u8?wsSecret=ce1ab8e3405a5ba6ef30d23a75ded041&wsTime=1778690732"
+            },
+            {
+                "eps": 8,
+                "title": "8",
+                "m3u8": "https://cdn-video.miniepisode.media/video/15804/8/9f8d06a29a9774ac673dc13ac7d79a87.m3u8?wsSecret=d82e7f288f296452c3ef9f9668f25d1b&wsTime=1778690732"
+            }
+        ]
+    },
+    {
+        "theater_id": 1210,
+        "theater_name": "When I Was Gone, He Went Mad",
+        "cover": "https://cdn-aws2.playlet.com/uploadfile/20260212/880410537999630336.jpg",
+        "total_streams": 6,
+        "streams": [
+            {
+                "eps": 1,
+                "title": "1",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/watermark/h264/v1/1210/1/1_03140d4cc60dc931ca5e42d029a7cce1.m3u8"
+            },
+            {
+                "eps": 2,
+                "title": "2",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/watermark/h264/v1/1210/2/2_a737b632f4eb4531da600ba29bc11a2e.m3u8"
+            },
+            {
+                "eps": 3,
+                "title": "3",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/watermark/h264/v1/1210/3/3_6bd42ac900a919f4cd8b2cafba0c6833.m3u8"
+            },
+            {
+                "eps": 4,
+                "title": "4",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/watermark/h264/v1/1210/4/4_392ed15808870d94d6e06726709c3ee5.m3u8"
+            },
+            {
+                "eps": 5,
+                "title": "5",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/watermark/h264/v1/1210/5/5_2ccb5ea098bbf6575215cc6217aff2ab.m3u8"
+            },
+            {
+                "eps": 6,
+                "title": "6",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/watermark/h264/v1/1210/6/6_68bbfdcff0f5fe521db0619f4e81fbae.m3u8"
+            }
+        ]
+    },
+    {
+        "theater_id": 1144,
+        "theater_name": "Love Game with the Disabled Boss",
+        "cover": "https://cdn-aws2.playlet.com/uploadfile/20250609/790530707503501312.jpg",
+        "total_streams": 8,
+        "streams": [
+            {
+                "eps": 1,
+                "title": "1",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1144/1/1_264a3a7efd865783e3180104cc38163c.m3u8"
+            },
+            {
+                "eps": 2,
+                "title": "2",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1144/2/2_9de2c6af4e58b523f66705a6b7b2f376.m3u8"
+            },
+            {
+                "eps": 3,
+                "title": "3",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1144/3/3_73086a7575b5d7bb7b416f70e4c42ce0.m3u8"
+            },
+            {
+                "eps": 4,
+                "title": "4",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1144/4/4_2af6a189f16ef352ef3d5c318b63dff1.m3u8"
+            },
+            {
+                "eps": 5,
+                "title": "5",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1144/5/5_9280355a47960ca651580d272dbefafd.m3u8"
+            },
+            {
+                "eps": 6,
+                "title": "6",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1144/6/6_f223d5c90b05890448b87536a24337eb.m3u8"
+            },
+            {
+                "eps": 7,
+                "title": "7",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1144/7/7_eb4db88de43392e9513694dd2488effd.m3u8"
+            },
+            {
+                "eps": 8,
+                "title": "8",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1144/8/8_c9862007dc30b515406b7213e990acf3.m3u8"
+            }
+        ]
+    },
+    {
+        "theater_id": 1183,
+        "theater_name": "Step by Step into the Mafia's Embrace",
+        "cover": "https://cdn-aws2.playlet.com/uploadfile/20251215/859046884039163904.jpg",
+        "total_streams": 6,
+        "streams": [
+            {
+                "eps": 1,
+                "title": "1",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1183/1/1_fa6bcefede54b612a57072d9a6fc3910.m3u8"
+            },
+            {
+                "eps": 2,
+                "title": "2",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1183/2/2_71de43077bf88749a67b9e128eb439bb.m3u8"
+            },
+            {
+                "eps": 3,
+                "title": "3",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1183/3/3_32f6da47803b2d4de0a1b9c1e044a042.m3u8"
+            },
+            {
+                "eps": 4,
+                "title": "4",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1183/4/4_833ba7d625d0f237768e449f67c44afd.m3u8"
+            },
+            {
+                "eps": 5,
+                "title": "5",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1183/5/5_cad07bdcd46a95cb81be0495fc7222cc.m3u8"
+            },
+            {
+                "eps": 6,
+                "title": "6",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1183/6/6_e125f043e0093905e6d2d27577442f6d.m3u8"
+            }
+        ]
+    },
+    {
+        "theater_id": 1198,
+        "theater_name": "To Love and to Destroy",
+        "cover": "https://cdn-aws2.playlet.com/uploadfile/20260119/871716336981041152.jpg",
+        "total_streams": 7,
+        "streams": [
+            {
+                "eps": 1,
+                "title": "1",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/wm/1198/1/1_b4a1d7956358ceaeeecde88e5e54c855.m3u8"
+            },
+            {
+                "eps": 2,
+                "title": "2",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/wm/1198/2/2_4281045b8efa5d015d5a8af4bbaf51d4.m3u8"
+            },
+            {
+                "eps": 3,
+                "title": "3",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/wm/1198/3/3_a61cd45c667ceb862659e2718a0dacf3.m3u8"
+            },
+            {
+                "eps": 4,
+                "title": "4",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/wm/1198/4/4_d36c28ce67d12a1081a0b1e3db03ea8a.m3u8"
+            },
+            {
+                "eps": 5,
+                "title": "5",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/wm/1198/5/5_e95dd7260ee31411218c5368685007c0.m3u8"
+            },
+            {
+                "eps": 6,
+                "title": "6",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/wm/1198/6/6_5364e133ab8c86fc73d4ff2aac5dce78.m3u8"
+            },
+            {
+                "eps": 7,
+                "title": "7",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/wm/1198/7/7_65081c92fc9d965b08bd9e07c7960b7b.m3u8"
+            }
+        ]
+    },
+    {
+        "theater_id": 1119,
+        "theater_name": "My Destined Mate: An Alpha in Coma",
+        "cover": "https://cdn-aws2.playlet.com/uploadfile/20241128/720663061124104192.jpg",
+        "total_streams": 5,
+        "streams": [
+            {
+                "eps": 1,
+                "title": "1",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1119/1/1_615279c4ada0da42bec445a7836c2a18.m3u8"
+            },
+            {
+                "eps": 2,
+                "title": "2",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1119/2/2_8425c5b7b1e0c5a67da1cefe33b0f122.m3u8"
+            },
+            {
+                "eps": 3,
+                "title": "3",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1119/3/3_105a329fdf441484df898f12d3809044.m3u8"
+            },
+            {
+                "eps": 4,
+                "title": "4",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1119/4/4_49ccf0fc1694c5b2ce84d7bc0652126b.m3u8"
+            },
+            {
+                "eps": 5,
+                "title": "5",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1119/5/5_9e9b0d3bbc8ef8cf0cdb070df7cdd7ad.m3u8"
+            }
+        ]
+    },
+    {
+        "theater_id": 1164,
+        "theater_name": "Too Late to Say I Love You",
+        "cover": "https://cdn-aws2.playlet.com/uploadfile/20251112/847189863537737728.jpg",
+        "total_streams": 6,
+        "streams": [
+            {
+                "eps": 1,
+                "title": "1",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1164/1/1_8b164744b32de0535394ad5df195701a.m3u8"
+            },
+            {
+                "eps": 2,
+                "title": "2",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1164/2/2_a8dcebd79230debb51f3d2bbe6b15ef3.m3u8"
+            },
+            {
+                "eps": 3,
+                "title": "3",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1164/3/3_5fb63a3e890a35107f941880eded02b4.m3u8"
+            },
+            {
+                "eps": 4,
+                "title": "4",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1164/4/4_1efa4b9648a068c02514261f22ef9248.m3u8"
+            },
+            {
+                "eps": 5,
+                "title": "5",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1164/5/5_b88cde5646b4e2580e6c02149b88b952.m3u8"
+            },
+            {
+                "eps": 6,
+                "title": "6",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1164/6/6_ffd11f16b16ee4843765a4fc9254069b.m3u8"
+            }
+        ]
+    },
+    {
+        "theater_id": 5072,
+        "theater_name": "Have Another Baby with My Ex",
+        "cover": "https://cdn-aws2.playlet.com/uploadfile/20260204/877629147536732160.png",
+        "total_streams": 10,
+        "streams": [
+            {
+                "eps": 1,
+                "title": "1",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/wm/5072/1/1_66c1f7f43a752b3a713c3b3bab2fb9f4.m3u8"
+            },
+            {
+                "eps": 2,
+                "title": "2",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/wm/5072/2/2_03ee0b7f18efd2ce24a7b8b243a86318.m3u8"
+            },
+            {
+                "eps": 3,
+                "title": "3",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/wm/5072/3/3_ad2fa37957903150d45f0d4e2cf7703c.m3u8"
+            },
+            {
+                "eps": 4,
+                "title": "4",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/wm/5072/4/4_fb9dd4e479080190b140d854e7c2fb45.m3u8"
+            },
+            {
+                "eps": 5,
+                "title": "5",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/wm/5072/5/5_b2d44a19b2b2454530a18d36f8d54a6d.m3u8"
+            },
+            {
+                "eps": 6,
+                "title": "6",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/wm/5072/6/6_bfe201dd99650a8a31b3e980182582fb.m3u8"
+            },
+            {
+                "eps": 7,
+                "title": "7",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/wm/5072/7/7_c548724945d77970632437da90d3fb9a.m3u8"
+            },
+            {
+                "eps": 8,
+                "title": "8",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/wm/5072/8/8_8f4b31dfc05b28dea179cdc8c558c037.m3u8"
+            },
+            {
+                "eps": 9,
+                "title": "9",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/wm/5072/9/9_f274ad7978ee2d6a4de6b47180a19a8b.m3u8"
+            },
+            {
+                "eps": 10,
+                "title": "10",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/wm/5072/10/10_f69e9174167f06ff65a8324a3a1f5e24.m3u8"
+            }
+        ]
+    },
+    {
+        "theater_id": 1163,
+        "theater_name": "Daughter's Dying, and He's still Lying",
+        "cover": "https://cdn-aws2.playlet.com/uploadfile/20251015/837035681907802112.jpg",
+        "total_streams": 5,
+        "streams": [
+            {
+                "eps": 1,
+                "title": "1",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1163/1/1_4f309e56b012d4fba0fa9efd7c44e2f6.m3u8"
+            },
+            {
+                "eps": 2,
+                "title": "2",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1163/2/2_2369f1149c252ec9d76ab80e52bf798b.m3u8"
+            },
+            {
+                "eps": 3,
+                "title": "3",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1163/3/3_ad70a328da06f9a3d70403c7fdbc9db7.m3u8"
+            },
+            {
+                "eps": 4,
+                "title": "4",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1163/4/4_232a28b333f86f61b58f763af502e5b8.m3u8"
+            },
+            {
+                "eps": 5,
+                "title": "5",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1163/5/5_8858041c8bf423149a682dddd2c8ec29.m3u8"
+            }
+        ]
+    },
+    {
+        "theater_id": 1142,
+        "theater_name": "Forbidden Crush: Taste of Brother-in-Law",
+        "cover": "https://cdn-aws2.playlet.com/uploadfile/20250804/810910600603983872.jpg",
+        "total_streams": 7,
+        "streams": [
+            {
+                "eps": 1,
+                "title": "1",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1142/1/1_208a5974ca2bd5e0080170bb88879253.m3u8"
+            },
+            {
+                "eps": 2,
+                "title": "2",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1142/2/2_5bbc873ded76e95d7358a38ebc54161f.m3u8"
+            },
+            {
+                "eps": 3,
+                "title": "3",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1142/3/3_048c635027ba5de5e387baca565579b6.m3u8"
+            },
+            {
+                "eps": 4,
+                "title": "4",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1142/4/4_c1dfe439e10ce4fc9891ad8462222aa3.m3u8"
+            },
+            {
+                "eps": 5,
+                "title": "5",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1142/5/5_0ccabc8a18e3de76e595005d3d3effdb.m3u8"
+            },
+            {
+                "eps": 6,
+                "title": "6",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1142/6/6_0da126ba75aedef71e83246d3b117c76.m3u8"
+            },
+            {
+                "eps": 7,
+                "title": "7",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1142/7/7_eada95ba06e3e146e5e0620b9367cbf7.m3u8"
+            }
+        ]
+    },
+    {
+        "theater_id": 10475,
+        "theater_name": "Everybody Step Aside, The Matriarch Is Back",
+        "cover": "https://cdn-aws2.playlet.com/uploadfile/20260415/902957934748659712.png",
+        "total_streams": 6,
+        "streams": [
+            {
+                "eps": 1,
+                "title": "1",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/v2/watermark/h264/10475/1/1_1a351c241890fb0cfefbf21b21373604_5e8b300a70617e24678a6cc79bde7d3b.m3u8"
+            },
+            {
+                "eps": 2,
+                "title": "2",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/v2/watermark/h264/10475/2/2_6e00d9e8da2bbba04b312983af7d52a3_48caddfebfb621b95182b21c94df0aa1.m3u8"
+            },
+            {
+                "eps": 3,
+                "title": "3",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/v2/watermark/h264/10475/3/3_7212dfebefa38fae54d773b0c97ff7e5_ad1f68b00fd826ad0172e3f7f86e0295.m3u8"
+            },
+            {
+                "eps": 4,
+                "title": "4",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/v2/watermark/h264/10475/4/4_6ac1907509dcf57f3d9ad7a6b6cf0bfb_ea9c04b96498df67ae6931b7ea23c5ee.m3u8"
+            },
+            {
+                "eps": 5,
+                "title": "5",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/v2/watermark/h264/10475/5/5_3a7616cbc34d9143fd9781768dcc1cb4_4019b0ebd26f7c11db17dc9d771b08ee.m3u8"
+            },
+            {
+                "eps": 6,
+                "title": "6",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/v2/watermark/h264/10475/6/6_498f0063e176b8cb096a9745456e6171_d70d600e65fcd9e5c58158b766293994.m3u8"
+            }
+        ]
+    },
+    {
+        "theater_id": 1143,
+        "theater_name": "Carrying Alpha's Pup in Secret",
+        "cover": "https://cdn-aws2.playlet.com/uploadfile/20250617/793422631189278720.jpg",
+        "total_streams": 6,
+        "streams": [
+            {
+                "eps": 1,
+                "title": "1",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1143/1/1_2bd0ac1403bae84f3877ec3cf6341d3e.m3u8"
+            },
+            {
+                "eps": 2,
+                "title": "2",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1143/2/2_2d779fbe42def1f82b459fc18f104a00.m3u8"
+            },
+            {
+                "eps": 3,
+                "title": "3",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1143/3/3_b7d33e8de662603d283e849928ac33c6.m3u8"
+            },
+            {
+                "eps": 4,
+                "title": "4",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1143/4/4_85c8258c1cffbeb1d825d5cf8501b9e9.m3u8"
+            },
+            {
+                "eps": 5,
+                "title": "5",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1143/5/5_1c129fe74d594f72782962c40eca68ff.m3u8"
+            },
+            {
+                "eps": 6,
+                "title": "6",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1143/6/6_1d5e48ffc826fe07216d4c80ecbf0903.m3u8"
+            }
+        ]
+    },
+    {
+        "theater_id": 1141,
+        "theater_name": "Fired, Framed and Fierce",
+        "cover": "https://cdn-aws2.playlet.com/uploadfile/20250515/781592779099811840.jpg",
+        "total_streams": 5,
+        "streams": [
+            {
+                "eps": 1,
+                "title": "1",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1141/1/1_e7562e53d43e8126536014465cf5573a.m3u8"
+            },
+            {
+                "eps": 2,
+                "title": "2",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1141/2/2_667ac5fd95338ea3d34b75841f6345f1.m3u8"
+            },
+            {
+                "eps": 3,
+                "title": "3",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1141/3/3_b61a437438815691bb945e02e527ae89.m3u8"
+            },
+            {
+                "eps": 4,
+                "title": "4",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1141/4/4_f37c14b658a0fd94588efccbed8e1253.m3u8"
+            },
+            {
+                "eps": 5,
+                "title": "5",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1141/5/5_3e1ce7d7daf2d44dc0c6251b71a5b3d2.m3u8"
+            }
+        ]
+    },
+    {
+        "theater_id": 1197,
+        "theater_name": "My Husband Wanted to Steal My Baby",
+        "cover": "https://cdn-aws2.playlet.com/uploadfile/20260113/869538096728006656.jpg",
+        "total_streams": 8,
+        "streams": [
+            {
+                "eps": 1,
+                "title": "1",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1197/1/1_079fe22537b84de9969fcfa50f06429a.m3u8"
+            },
+            {
+                "eps": 2,
+                "title": "2",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1197/2/2_4cfa8696cc106628f79abeafcbda33b0.m3u8"
+            },
+            {
+                "eps": 3,
+                "title": "3",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1197/3/3_3552e49fd5d0c79b83780289ddc6bff5.m3u8"
+            },
+            {
+                "eps": 4,
+                "title": "4",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1197/4/4_0dd098cade83f6fae1d9c262c8ec1b97.m3u8"
+            },
+            {
+                "eps": 5,
+                "title": "5",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1197/5/5_1ffbf311f163cdf4138671fa2c9afc29.m3u8"
+            },
+            {
+                "eps": 6,
+                "title": "6",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1197/6/6_e6f1a6c1cb473cc4b6c7aeabee0e1cdf.m3u8"
+            },
+            {
+                "eps": 7,
+                "title": "7",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1197/7/7_b9b854ebe036e5dfe120b2b93843cf8e.m3u8"
+            },
+            {
+                "eps": 8,
+                "title": "8",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1197/8/8_c985e6dc13a4e98143a9b01a3f9ed99d.m3u8"
+            }
+        ]
+    },
+    {
+        "theater_id": 1204,
+        "theater_name": "My Wedding, Your Biggest Regret",
+        "cover": "https://cdn-aws2.playlet.com/uploadfile/20260203/877142877316157440.jpg",
+        "total_streams": 5,
+        "streams": [
+            {
+                "eps": 1,
+                "title": "1",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/watermark/h264/v1/1204/1/1_bec17c3dfb797f8b4ff9031ed0455f00.m3u8"
+            },
+            {
+                "eps": 2,
+                "title": "2",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/wm/1204/2/2_e0404539faaf96603bc00fba5d3982cf.m3u8"
+            },
+            {
+                "eps": 3,
+                "title": "3",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/wm/1204/3/3_9e7e07779076d95ed88907fe356aa6de.m3u8"
+            },
+            {
+                "eps": 4,
+                "title": "4",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/wm/1204/4/4_9358d2b6c37a2276c49a7425b555c54e.m3u8"
+            },
+            {
+                "eps": 5,
+                "title": "5",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/wm/1204/5/5_be91fa0ad431233abb8b7b02f7ec5c33.m3u8"
+            }
+        ]
+    },
+    {
+        "theater_id": 5081,
+        "theater_name": "The Hot Male Stripper Is My Boss",
+        "cover": "https://cdn-aws2.playlet.com/uploadfile/20260316/892060599067287552.jpg",
+        "total_streams": 9,
+        "streams": [
+            {
+                "eps": 1,
+                "title": "1",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/watermark/h264/v1/5081/1/1_dc14f50ca1cacf8e29b6e183110c0686.m3u8"
+            },
+            {
+                "eps": 2,
+                "title": "2",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/watermark/h264/v1/5081/2/2_8a86be7f129da32812781037bafd0254.m3u8"
+            },
+            {
+                "eps": 3,
+                "title": "3",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/watermark/h264/v1/5081/3/3_ff699f3ed47b55dce748041f0d46fcc2.m3u8"
+            },
+            {
+                "eps": 4,
+                "title": "4",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/watermark/h264/v1/5081/4/4_50d32747f8610e1e02b6ce8ae00aa2aa.m3u8"
+            },
+            {
+                "eps": 5,
+                "title": "5",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/watermark/h264/v1/5081/5/5_9599cedcbc6c4dcfa926f5d2db2fabd6.m3u8"
+            },
+            {
+                "eps": 6,
+                "title": "6",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/watermark/h264/v1/5081/6/6_1d812b92f93d0ad3fd6d122f3c9772d7.m3u8"
+            },
+            {
+                "eps": 7,
+                "title": "7",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/watermark/h264/v1/5081/7/7_0a941e78fb6397c4ca65867d1d954a9a.m3u8"
+            },
+            {
+                "eps": 8,
+                "title": "8",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/watermark/h264/v1/5081/8/8_b4295c092c69371811ea504047c9e1fb.m3u8"
+            },
+            {
+                "eps": 9,
+                "title": "9",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/watermark/h264/v1/5081/9/9_127d0346598d0315d55aaa84ed7b6ae9.m3u8"
+            }
+        ]
+    },
+    {
+        "theater_id": 5044,
+        "theater_name": "I Fixed the Infertile Alpha King",
+        "cover": "https://cdn-aws2.playlet.com/uploadfile/20250904/822134957049847808.jpg",
+        "total_streams": 9,
+        "streams": [
+            {
+                "eps": 1,
+                "title": "1",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/5044/1/1_2d6469c07aeefa6a9a88f024c619c2a3.m3u8"
+            },
+            {
+                "eps": 2,
+                "title": "2",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/5044/2/2_a54838c48f82ec6cd2f17f70d8346256.m3u8"
+            },
+            {
+                "eps": 3,
+                "title": "3",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/5044/3/3_9de9dbed4ac8636fe91c7e91d3e9b314.m3u8"
+            },
+            {
+                "eps": 4,
+                "title": "4",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/5044/4/4_533218b6fba7a1f4a040a273c0b751d2.m3u8"
+            },
+            {
+                "eps": 5,
+                "title": "5",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/5044/5/5_c20fb5f0b1bc39e71598c8ab5a196d43.m3u8"
+            },
+            {
+                "eps": 6,
+                "title": "6",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/5044/6/6_204215889197610e9574711403deed71.m3u8"
+            },
+            {
+                "eps": 7,
+                "title": "7",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/5044/7/7_b221ca6007083887578f1f183af7c065.m3u8"
+            },
+            {
+                "eps": 8,
+                "title": "8",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/5044/8/8_eef0f9a898f25b0e5d7f24b72cd418f9.m3u8"
+            },
+            {
+                "eps": 9,
+                "title": "9",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/5044/9/9_e9e75206debf3967f1d5177691a5a070.m3u8"
+            }
+        ]
+    },
+    {
+        "theater_id": 5054,
+        "theater_name": "Bonded to the Dangerous Don",
+        "cover": "https://cdn-aws2.playlet.com/uploadfile/20251112/847127592333639680.jpg",
+        "total_streams": 2,
+        "streams": [
+            {
+                "eps": 1,
+                "title": "1",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/5054/1/1_ac791435764f61013ea9ec9dd68c3e39.m3u8"
+            },
+            {
+                "eps": 2,
+                "title": "2",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/5054/2/2_0bb0a76561db1bc3d563d6c0b3b81a21.m3u8"
+            }
+        ]
+    },
+    {
+        "theater_id": 1158,
+        "theater_name": "The Alpha's Hidden Heir",
+        "cover": "https://cdn-aws2.playlet.com/uploadfile/20251210/857322091178713088.jpg",
+        "total_streams": 6,
+        "streams": [
+            {
+                "eps": 1,
+                "title": "1",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1158/1/1_ced7d6ba13133b83f6a6292baca36100.m3u8"
+            },
+            {
+                "eps": 2,
+                "title": "2",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1158/2/2_31bc669bf36e9c29100bde32066735a0.m3u8"
+            },
+            {
+                "eps": 3,
+                "title": "3",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1158/3/3_ddce69906de30e4dfb6420a2240f518e.m3u8"
+            },
+            {
+                "eps": 4,
+                "title": "4",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1158/4/4_c430298707f279da9356e3c62c646d98.m3u8"
+            },
+            {
+                "eps": 5,
+                "title": "5",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1158/5/5_75c60e047ad524901d81776c483b9c12.m3u8"
+            },
+            {
+                "eps": 6,
+                "title": "6",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1158/6/6_4600bea1f2db377d5d3dcde93bea7447.m3u8"
+            }
+        ]
+    },
+    {
+        "theater_id": 1162,
+        "theater_name": "The Foolish Heiress Strikes Back",
+        "cover": "https://cdn-aws2.playlet.com/uploadfile/20250926/830103538446807040.jpg",
+        "total_streams": 7,
+        "streams": [
+            {
+                "eps": 1,
+                "title": "1",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1162/1/1_20de14a5782ef01d6e4f9c72beb6e581.m3u8"
+            },
+            {
+                "eps": 2,
+                "title": "2",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1162/2/2_2afc9761ff041fd752fe0ea78b9114c9.m3u8"
+            },
+            {
+                "eps": 3,
+                "title": "3",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1162/3/3_a42a6bc3ed301578ff6a9c24a55be287.m3u8"
+            },
+            {
+                "eps": 4,
+                "title": "4",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1162/4/4_9439a6517a789e5f3824c98ac6c1aee0.m3u8"
+            },
+            {
+                "eps": 5,
+                "title": "5",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1162/5/5_8e20d87aa38b70163650bc1242c5184f.m3u8"
+            },
+            {
+                "eps": 6,
+                "title": "6",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1162/6/6_7a200cf973014c1dda9dae1b7887f11e.m3u8"
+            },
+            {
+                "eps": 7,
+                "title": "7",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1162/7/7_9847958202343c4d3769ff83a47cbd97.m3u8"
+            }
+        ]
+    },
+    {
+        "theater_id": 5074,
+        "theater_name": "A Flash Marriage to My Groom's Brother",
+        "cover": "https://cdn-aws2.playlet.com/uploadfile/20260204/877626337143349248.jpg",
+        "total_streams": 11,
+        "streams": [
+            {
+                "eps": 1,
+                "title": "1",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/wm/5074/1/1_cf9cedc5d867945ac433e40d9feb2d64.m3u8"
+            },
+            {
+                "eps": 2,
+                "title": "2",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/wm/5074/2/2_f02274d6f8f112740b9c339cef38252a.m3u8"
+            },
+            {
+                "eps": 3,
+                "title": "3",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/wm/5074/3/3_5261b933d756386a9ce200c262e391d1.m3u8"
+            },
+            {
+                "eps": 4,
+                "title": "4",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/wm/5074/4/4_0e0d5ba9d1c487fc8e18be15be88a178.m3u8"
+            },
+            {
+                "eps": 5,
+                "title": "5",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/wm/5074/5/5_283adde4e8f38914daa5b746a9405cec.m3u8"
+            },
+            {
+                "eps": 6,
+                "title": "6",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/wm/5074/6/6_51a568dc81a0593e19addc39a79ba067.m3u8"
+            },
+            {
+                "eps": 7,
+                "title": "7",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/wm/5074/7/7_d8ee50dc421105ff8d6d0c507bed4937.m3u8"
+            },
+            {
+                "eps": 8,
+                "title": "8",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/wm/5074/8/8_deb0edd716d65a68457026300586f077.m3u8"
+            },
+            {
+                "eps": 9,
+                "title": "9",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/wm/5074/9/9_109663bc174d0020129fa040d8884a23.m3u8"
+            },
+            {
+                "eps": 10,
+                "title": "10",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/wm/5074/10/10_88b941a1d13a89f20648e672eba11c79.m3u8"
+            },
+            {
+                "eps": 11,
+                "title": "11",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/wm/5074/11/11_e0c372539123aeb45e84f46b91d40507.m3u8"
+            }
+        ]
+    },
+    {
+        "theater_id": 1137,
+        "theater_name": "Don't Mess With Dying Me",
+        "cover": "https://cdn-aws2.playlet.com/uploadfile/20250418/771776352536080384.jpg",
+        "total_streams": 4,
+        "streams": [
+            {
+                "eps": 1,
+                "title": "1",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1137/1/1_1b95702882a5cfc9aa00e1dde1665bce.m3u8"
+            },
+            {
+                "eps": 2,
+                "title": "2",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1137/2/2_12c3b3d0d9dc65f4d175b6199116ba2e.m3u8"
+            },
+            {
+                "eps": 3,
+                "title": "3",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1137/3/3_66c08c6e242a24f39ab7e4b100940205.m3u8"
+            },
+            {
+                "eps": 4,
+                "title": "4",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1137/4/4_2f30f14098e8f4a557e29a0284ae5b7c.m3u8"
+            }
+        ]
+    },
+    {
+        "theater_id": 50195,
+        "theater_name": "Trapped in Professor's Playroom",
+        "cover": "https://cdn-aws2.playlet.com/uploadfile/20260430/908373027003441152.png",
+        "total_streams": 9,
+        "streams": [
+            {
+                "eps": 1,
+                "title": "1",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/v2/singleAudio/50195/1/1_d513871731ad12a94ad8d5f7ba9f4f0d_d052022212d0540470b044edc6f69fca.m3u8"
+            },
+            {
+                "eps": 2,
+                "title": "2",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/v2/singleAudio/50195/2/2_c5b7388ccf8f9d376cc33a361c4f163c_ea6647e7302aea73ea866f45490c92d0.m3u8"
+            },
+            {
+                "eps": 3,
+                "title": "3",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/v2/singleAudio/50195/3/3_15c65a42a80f07ab737ad5712644878f_68277f902e38c53a214e0d5859371b40.m3u8"
+            },
+            {
+                "eps": 4,
+                "title": "4",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/v2/singleAudio/50195/4/4_1a706e4651c6f17862d592471ed40e89_c04778bfac3629d48d2f79d920580db0.m3u8"
+            },
+            {
+                "eps": 5,
+                "title": "5",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/v2/singleAudio/50195/5/5_27ab4811bffc3aa8acbd3f2208d1f2d0_c250624a2d7fe292d3081191aeec5566.m3u8"
+            },
+            {
+                "eps": 6,
+                "title": "6",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/v2/singleAudio/50195/6/6_1676455b7b4a94cf087b7488bb1b1db7_1fe7b9199d6a268ca2fd1558ab1588e4.m3u8"
+            },
+            {
+                "eps": 7,
+                "title": "7",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/v2/singleAudio/50195/7/7_c30dbf07b6a8e481b664c3ac14dcc4b4_02a166f505cfd4ecba2e2a248b6a5cd6.m3u8"
+            },
+            {
+                "eps": 8,
+                "title": "8",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/v2/singleAudio/50195/8/8_1cc5b357fb809ad28078fe766e2780ed_f8fbab465f6a1f9f60dd32d04fecb4e9.m3u8"
+            },
+            {
+                "eps": 9,
+                "title": "9",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/v2/singleAudio/50195/9/9_363050527366c5f113e3472743f6bcfb_821d0962f11bedd7045f763ea49a2f47.m3u8"
+            }
+        ]
+    },
+    {
+        "theater_id": 1150,
+        "theater_name": "A Forbidden Deal with My Professor",
+        "cover": "https://cdn-aws2.playlet.com/uploadfile/20250711/802238048960200704.jpg",
+        "total_streams": 6,
+        "streams": [
+            {
+                "eps": 1,
+                "title": "1",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1150/1/1_b53b9cd8cfb8f995372d16bad431c3b3.m3u8"
+            },
+            {
+                "eps": 2,
+                "title": "2",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1150/2/2_7438e5ffe8b51225eb4e63cd1c6832d2.m3u8"
+            },
+            {
+                "eps": 3,
+                "title": "3",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1150/3/3_887b22f362f1c0bf796e3586483bfd45.m3u8"
+            },
+            {
+                "eps": 4,
+                "title": "4",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1150/4/4_17a4e32b47721ae2269108e6e1ad3003.m3u8"
+            },
+            {
+                "eps": 5,
+                "title": "5",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1150/5/5_1554733a6278e14609316735c270edae.m3u8"
+            },
+            {
+                "eps": 6,
+                "title": "6",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1150/6/6_62e0896c9622b1e1fdb1f591f28e4235.m3u8"
+            }
+        ]
+    },
+    {
+        "theater_id": 5077,
+        "theater_name": "Chasing The Wife He Threw Away",
+        "cover": "https://cdn-aws2.playlet.com/uploadfile/20260225/885108671606665216.jpg",
+        "total_streams": 5,
+        "streams": [
+            {
+                "eps": 1,
+                "title": "1",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/watermark/h264/v1/5077/1/1_72612401ff60fd462495d4183e904bf6.m3u8"
+            },
+            {
+                "eps": 2,
+                "title": "2",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/watermark/h264/v1/5077/2/2_485bc38dcba748a7031564fecb63c687.m3u8"
+            },
+            {
+                "eps": 3,
+                "title": "3",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/watermark/h264/v1/5077/3/3_dee5f89cd45ad3afee472dd5721ed5e1.m3u8"
+            },
+            {
+                "eps": 4,
+                "title": "4",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/watermark/h264/v1/5077/4/4_1b72802b9562ee7ef93603b27cf7f2be.m3u8"
+            },
+            {
+                "eps": 5,
+                "title": "5",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/watermark/h264/v1/5077/5/5_1e416d9e138cf03c9af231a0a351b8ea.m3u8"
+            }
+        ]
+    },
+    {
+        "theater_id": 1166,
+        "theater_name": "Three Months to Break Your Heart",
+        "cover": "https://cdn-aws2.playlet.com/uploadfile/20251031/842734264821157888.jpg",
+        "total_streams": 7,
+        "streams": [
+            {
+                "eps": 1,
+                "title": "1",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1166/1/1_16fbdde545502ff6fe5d7e0a5c56a8b3.m3u8"
+            },
+            {
+                "eps": 2,
+                "title": "2",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1166/2/2_88173ed0b10219c62265a2e1b011cbb8.m3u8"
+            },
+            {
+                "eps": 3,
+                "title": "3",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1166/3/3_d9c27f93445b10de330364ea33ad5aad.m3u8"
+            },
+            {
+                "eps": 4,
+                "title": "4",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1166/4/4_4b868701b7c0eeb97a798ccfd48a4c0e.m3u8"
+            },
+            {
+                "eps": 5,
+                "title": "5",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1166/5/5_267b77b8d94c464d33e9467b06af8b35.m3u8"
+            },
+            {
+                "eps": 6,
+                "title": "6",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1166/6/6_55ed34083cafcd11bdb7df5adbe50d6b.m3u8"
+            },
+            {
+                "eps": 7,
+                "title": "7",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1166/7/7_84f2f1226aa2c1d1c68576ca59980217.m3u8"
+            }
+        ]
+    },
+    {
+        "theater_id": 5061,
+        "theater_name": "I Married My Ex's Vampire Uncle",
+        "cover": "https://cdn-aws2.playlet.com/uploadfile/20251215/859094255167045632.jpg",
+        "total_streams": 12,
+        "streams": [
+            {
+                "eps": 1,
+                "title": "1",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/5061/1/1_0aeffce89ff3656530b1b2dc80dbe411.m3u8"
+            },
+            {
+                "eps": 2,
+                "title": "2",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/5061/2/2_71c1200fe9c5c87db220b64adce06e64.m3u8"
+            },
+            {
+                "eps": 3,
+                "title": "3",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/5061/3/3_7d3f1cf6ad81c5632c4e8a4b6d333fff.m3u8"
+            },
+            {
+                "eps": 4,
+                "title": "4",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/5061/4/4_890d12051b141c9ec0698d17b40e72bc.m3u8"
+            },
+            {
+                "eps": 5,
+                "title": "5",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/5061/5/5_bbff6e67fcc3cb3ac6ab76089794dca5.m3u8"
+            },
+            {
+                "eps": 6,
+                "title": "6",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/5061/6/6_969c67b60fe253b79b57c20b82b2dec7.m3u8"
+            },
+            {
+                "eps": 7,
+                "title": "7",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/5061/7/7_add19263455f6c49f27a19beeb39a070.m3u8"
+            },
+            {
+                "eps": 8,
+                "title": "8",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/5061/8/8_656b27b077dcce191009831622873638.m3u8"
+            },
+            {
+                "eps": 9,
+                "title": "9",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/5061/9/9_06ccd0a586500c6649c4f5c701e508af.m3u8"
+            },
+            {
+                "eps": 10,
+                "title": "10",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/5061/10/10_d8f4e6370b7ebfe3c404cfc9d508b6b0.m3u8"
+            },
+            {
+                "eps": 11,
+                "title": "11",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/5061/11/11_0551e79a61e188a12247267e1aaa278f.m3u8"
+            },
+            {
+                "eps": 12,
+                "title": "12",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/5061/12/12_a2c0b01adbfb66350d4701a122e9f2c8.m3u8"
+            }
+        ]
+    },
+    {
+        "theater_id": 5045,
+        "theater_name": "Comeback of the Divorced Heiress",
+        "cover": "https://cdn-aws2.playlet.com/uploadfile/20250910/824225123164004352.jpg",
+        "total_streams": 7,
+        "streams": [
+            {
+                "eps": 1,
+                "title": "1",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/5045/1/1_eead5c36d32c3f309b3da1562b645445.m3u8"
+            },
+            {
+                "eps": 2,
+                "title": "2",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/5045/2/2_04540fb7c85a3f32c6afa62fdfbda610.m3u8"
+            },
+            {
+                "eps": 3,
+                "title": "3",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/5045/3/3_301381e2e47ab81a72cedc7921978ce1.m3u8"
+            },
+            {
+                "eps": 4,
+                "title": "4",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/5045/4/4_a284853ad7a9e33d18faf64842e3efbd.m3u8"
+            },
+            {
+                "eps": 5,
+                "title": "5",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/5045/5/5_3c7b9bc36272a4c48d4ce24eb95b457f.m3u8"
+            },
+            {
+                "eps": 6,
+                "title": "6",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/5045/6/6_3bf12355d09eb5ec11fda3c6c4575c87.m3u8"
+            },
+            {
+                "eps": 7,
+                "title": "7",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/5045/7/7_c9d2380d2e28bf80a4ab9ad30042e467.m3u8"
+            }
+        ]
+    },
+    {
+        "theater_id": 1159,
+        "theater_name": "Swapped Mates: The Vagrant Alpha's Bride",
+        "cover": "https://cdn-aws2.playlet.com/uploadfile/20251210/857322179884019712.jpg",
+        "total_streams": 8,
+        "streams": [
+            {
+                "eps": 1,
+                "title": "1",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1159/1/1_0d03515614f4867318fecb196f619c79.m3u8"
+            },
+            {
+                "eps": 2,
+                "title": "2",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1159/2/2_4db558f59e91d595d61bda8e064db9f0.m3u8"
+            },
+            {
+                "eps": 3,
+                "title": "3",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1159/3/3_bfd3de1f2f268c161810d9deabe05e35.m3u8"
+            },
+            {
+                "eps": 4,
+                "title": "4",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1159/4/4_e86a92c4555d6a54ee3aeeaac967cf08.m3u8"
+            },
+            {
+                "eps": 5,
+                "title": "5",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1159/5/5_d3e4c671988295b219025a966c838c7e.m3u8"
+            },
+            {
+                "eps": 6,
+                "title": "6",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1159/6/6_2393c530e750d8f8c742a88ef0816507.m3u8"
+            },
+            {
+                "eps": 7,
+                "title": "7",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1159/7/7_e3fc6d47f4d7d8fcbdc96103a6e13da3.m3u8"
+            },
+            {
+                "eps": 8,
+                "title": "8",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1159/8/8_460f1bd3714c2432d7d11ffbc9525359.m3u8"
+            }
+        ]
+    },
+    {
+        "theater_id": 1156,
+        "theater_name": "Love kills. Lust heals",
+        "cover": "https://cdn-aws2.playlet.com/uploadfile/20250813/814088022803591168.jpg",
+        "total_streams": 6,
+        "streams": [
+            {
+                "eps": 1,
+                "title": "1",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1156/1/1_45d127a0808c1c2d9c5d61583c4f54d3.m3u8"
+            },
+            {
+                "eps": 2,
+                "title": "2",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1156/2/2_5bbe7da72ff107a857023968f775d594.m3u8"
+            },
+            {
+                "eps": 3,
+                "title": "3",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1156/3/3_4d8db3085bbc39c809d89bafa480cc7b.m3u8"
+            },
+            {
+                "eps": 4,
+                "title": "4",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1156/4/4_05a0903317c3e148f885598b4ea168e5.m3u8"
+            },
+            {
+                "eps": 5,
+                "title": "5",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1156/5/5_ffb539c6198366e1e92fd6008640feaa.m3u8"
+            },
+            {
+                "eps": 6,
+                "title": "6",
+                "m3u8": "https://cdn-aws2.playlet.com/hls/singleAudio/v1/1156/6/6_5c6fd86d4039fb1fcfde7314ce702b34.m3u8"
+            }
+        ]
+    }
+]
